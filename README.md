@@ -21,7 +21,7 @@ cd vim-studio-code
 - [Vundle.vim](https://github.com/VundleVim/Vundle.vim)
 - [NERD Tree](https://github.com/scrooloose/nerdtree)
 - [NERD Commenter](https://github.com/scrooloose/nerdcommenter)
-- [neocomplcashe](https://github.com/Shougo/neocomplcache.vim)
+- [neocomplcache](https://github.com/Shougo/neocomplcache.vim)
 - [vim-javascript](https://github.com/pangloss/vim-javascript)
 - [vim-airline](https://github.com/vim-airline/vim-airline)
 - [vim-code-dark](https://github.com/tomasiser/vim-code-dark)
