@@ -19,8 +19,9 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'The-NERD-Tree'
 Plugin 'scrooloose/nerdcommenter'
 Plugin 'Shougo/neocomplcache.vim'
-Plugin 'tomasiser/vim-code-dark'
+Plugin 'pangloss/vim-javascript'
 Plugin 'vim-airline/vim-airline'
+Plugin 'tomasiser/vim-code-dark'
 call vundle#end()
 filetype plugin indent on
 " Vundle end
