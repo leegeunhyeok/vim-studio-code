@@ -1,8 +1,9 @@
 #!/bin/bash
 
-git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim && \
-vim +PluginInstall +qall && \
-cp ./.vimrc ~/.vimrc
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+
+cp ./.vimrc ~/.vimrc && \
+vim +PluginInstall +qall
 
 if [ $? -eq 0 ]; then
   echo "VimSCode was installed!"
