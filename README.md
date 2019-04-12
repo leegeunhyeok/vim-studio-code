@@ -12,6 +12,10 @@ cd vim-studio-code
 ./setup.sh
 ```
 
+## 기능
+ - `F3` - NERD Tree(파일 탐색기) 보이기/숨기기
+ - `,` + `c` + `space` - 주석 설정/해제
+
 ## 참조
 
 - [Vundle.vim](https://github.com/VundleVim/Vundle.vim)
