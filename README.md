@@ -1,6 +1,5 @@
 <h2 align="center"><img src="https://raw.githubusercontent.com/VSCodeVim/Vim/master/images/icon.png" height="128"><br>VimSCode</h2>
 <p align="center"><strong>Vim을 위한 VSCode 테마/기능 설정 스크립트</strong></p>
-[Image source](https://github.com/VSCodeVim/Vim)
 <hr>
 
 ## 설치
@@ -18,7 +17,7 @@ cd vim-studio-code
  - `,` + `c` + `space` - 주석 설정/해제
 
 ## 참조
-
+- [아이콘 이미지](https://github.com/VSCodeVim/Vim)
 - [Vundle.vim](https://github.com/VundleVim/Vundle.vim)
 - [NERD Tree](https://github.com/scrooloose/nerdtree)
 - [NERD Commenter](https://github.com/scrooloose/nerdcommenter)
