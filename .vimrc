@@ -64,13 +64,19 @@ set hlsearch
 set showmatch
 
 " 파일 인코딩 및 기록버퍼 크기 지정
+set encoding=utf-8
 set fileencoding=utf-8
 set history=256
 
 " 텍스트 색상 설정 및 테마 지정
 set t_Co=256
 set t_ut=
-colorscheme codedark
+
+try
+  colorscheme codedark
+catch /^Vim\%((\a\+)\)\=:E185/
+  colorscheme default
+endtry
 
 " airline 설정 및 하단 상태바 표시
 let g:airline#extensions#tabline#enabled=1
