@@ -4,7 +4,7 @@
 
 ## 설치
 
-`vim` & `git` 설치 후 스크립트를 실행하여 설정하실 수 있습니다.
+`vim` & `git` 설치 후 스크립트를 실행하여 간편하게 설정하실 수 있습니다.
 
 ```bash
 git clone https://github.com/leegeunhyeok/vim-studio-code.git
